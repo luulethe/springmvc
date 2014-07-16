@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="codeweb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="codeweb.war">
+      <element id="artifact" artifact-name="codeweb:war exploded" />
+    </root>
+  </artifact>
+</component>
